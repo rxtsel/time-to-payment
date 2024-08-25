@@ -3,7 +3,6 @@ hours = 92
 minutes = 35
 seconds = 12
 
-# Rate per hour
 rate_per_hour = 17
 
 # Convert minutes and seconds to decimal
