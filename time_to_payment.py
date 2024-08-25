@@ -6,7 +6,7 @@ seconds = 12 / 3600
 # Sum all hours
 total_hours = hours + minutes + seconds
 
-print("Total de horas: ", total_hours)
+print("Total Ours: ", total_hours)
 
 # Rate per hour
 rate_per_hour = 17
